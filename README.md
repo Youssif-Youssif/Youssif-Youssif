@@ -24,7 +24,3 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssif-youssif&" alt="youssif-youssif" /></p>-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Youssif-Youssif/Machine-Learning-Algorithms-For-Autonomous-Driving" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/youssifyoussif" height="30" width="40" /></a>
-</p>
