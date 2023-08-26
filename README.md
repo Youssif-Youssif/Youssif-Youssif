@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssif Youssif</h1>
-<h3 align="center">A passionate Electrical Engineer (Communication/signal processing and math background) with a wide range of experience in machine learning and computer vision for autonomous applications, as well as BMS algorithm development for state-of-the-art EVs from my Senior year projects and Co-Op at Stellantis ARDC</h3>
+<h3 align="center">A passionate Electrical Engineer  with a wide range of experience in machine learning and computer vision for autonomous applications, as well as BMS algorithm development for state-of-the-art EVs from my Senior year projects and Co-Op experience at Stellantis ARDC</h3>
 <!--img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/4a/d7/13/4ad713b97bd81020827b7e32c40eb833.gif"-->
 
 
