@@ -4,9 +4,13 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssif-youssif&label=Profile%20views&color=0e75b6&style=flat" alt="youssif-youssif" /> </p>
-
-- 🔭 Senior Year Capstone Project **Machine Learning Algorithms For Autonomous Driving**
+   <body>
+      <h1></h1>
+      <p>
+      - 🔭 Senior Year Capstone Project <a href="https://github.com/Youssif-Youssif/Machine-Learning-Algorithms-For-Autonomous-Driving">Machine Learning Algorithms For Autonomous Driving</a> 
+      </p>
+   </body>
+</html>
 
 - 📫 How to reach me **youssifyoussif91@gmail.com**
 
@@ -23,4 +27,6 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssif-youssif&show_icons=true&locale=en" alt="youssif-youssif" /></p>-->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssif-youssif&" alt="youssif-youssif" /></p>-->
+
+
 
