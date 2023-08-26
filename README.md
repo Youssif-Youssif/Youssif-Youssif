@@ -7,12 +7,12 @@
    <body>
       <h1></h1>
       <p>
-      - 🔭 Senior Year Capstone Project <a href="https://github.com/Youssif-Youssif/Machine-Learning-Algorithms-For-Autonomous-Driving">Machine Learning Algorithms For Autonomous Driving</a> 
+       🔭 Senior Year Capstone Project <a href="https://github.com/Youssif-Youssif/Machine-Learning-Algorithms-For-Autonomous-Driving">Machine Learning Algorithms For Autonomous Driving</a> 
       </p>
    </body>
 </html>
 
-- 📫 How to reach me **youssifyoussif91@gmail.com**
+ 📫 How to reach me **youssifyoussif91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
